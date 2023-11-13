@@ -8,3 +8,4 @@ Dezipper le fichier gestion_compte_bancaire.zip dans la racine de htdocs sous Xa
 Importer les fichiers gestion_compte_bancaire.sql dans la base de donnée ( c'est le nom de la base )
 Importe la table transactions.sql
 voir capture écran de la page phpMyAdmin 
+apres à vous de jouer pour gérer la page index.php le look quoi! voir image capture écran 
